@@ -36,3 +36,11 @@ air_quality_history.csv
 
 air_quality_forecasts.csv
 air_quality_history.csv
+
+# Generated project datasets
+**/data/raw/
+**/data/processed/
+
+# Generated project datasets
+**/data/raw/
+**/data/processed/
